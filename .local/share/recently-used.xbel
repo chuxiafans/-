@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/luohuan/.ssh/id_rsa.pub" added="2019-01-09T06:32:31Z" modified="2019-01-09T07:18:55Z" visited="2019-01-09T06:32:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-09T07:18:55Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/luohuan/README.md" added="2019-01-09T07:20:52Z" modified="2019-01-09T07:20:52Z" visited="2019-01-09T07:20:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-09T07:20:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/example-content/Ubuntu_Free_Culture_Showcase/Jenyfa%20Duncan%20-%20I%20Don&apos;t%20Know%20(original).opus" added="2019-01-09T07:21:07Z" modified="2019-01-09T07:21:07Z" visited="2019-01-09T07:21:07.931079Z">
+    <title>Jenyfa Duncan - I Don&apos;t Know (original).opus</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-opus+ogg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="视频" exec="&apos;totem %u&apos;" modified="2019-01-09T07:21:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
